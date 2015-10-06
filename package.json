@@ -1,0 +1,30 @@
+{
+  "name": "github-backup",
+  "version": "0.1.0",
+  "description": "Backup of Github",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tabman83/github-backup.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "backup"
+  ],
+  "author": "Antonino Parisi <tabman83@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabman83/github-backup/issues"
+  },
+  "homepage": "https://github.com/tabman83/github-backup",
+  "dependencies": {
+    "async": "^1.4.2",
+    "github-api": "^0.10.6",
+    "request": "^2.64.0",
+    "rimraf": "^2.4.3"
+  }
+}
