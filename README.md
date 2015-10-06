@@ -1,5 +1,8 @@
 # github-backup
 
+[![NPM](https://nodei.co/npm/github-backup.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/github-backup)
+
+[![Build Status](https://travis-ci.org/tabman83/github-backup.svg?branch=master)](https://travis-ci.org/tabman83/github-backup) 
 > github-backup is a simple tool that backs up every repository and branch for a specified user.
 
 You will never be missing again your Dublin Bus ride! This web application shows the due time for your next ride a warns you when time is running out.
