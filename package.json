@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
+  "preferGlobal": true,
   "bin": {
     "github-archive": "bin.js"
   },
