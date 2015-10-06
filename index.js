@@ -47,7 +47,6 @@ function downloadFile(data, cb) {
 function readBranches(repo, cb) {
     var objRepo = github.getRepo(orgName, repo.name);
     objRepo.listBranches(function(err, branchNames) {
-        console.log(branchNames);
         var result = branchNames.map(function(branchName) {
             return {
                 repoName: repo.name,
