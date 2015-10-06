@@ -17,7 +17,7 @@
     "archive"
   ],
   "author": "Antonino Parisi <tabman83@gmail.com>",
-  "license": "ISC",
+  "license": "CC0",
   "homepage": "https://github.com/tabman83/github-archive",
   "dependencies": {
     "async": "^1.4.2",
