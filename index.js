@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var Github = require('github-api');
 var async = require('async');
 var rimraf = require('rimraf');
