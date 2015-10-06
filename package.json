@@ -4,7 +4,8 @@
   "description": "Backup of Github",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "install": "npm link"
   },
   "bin": {
     "github-archive": "bin.js"
