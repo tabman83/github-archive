@@ -2,7 +2,6 @@
 
 var Github = require('github-api');
 var async = require('async');
-var rimraf = require('rimraf');
 var request = require('request');
 var fs = require('fs');
 
