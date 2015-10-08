@@ -3,6 +3,9 @@
 [![NPM](https://nodei.co/npm/github-archive.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/github-archive)
 
 [![Build Status](https://travis-ci.org/tabman83/github-archive.svg?branch=master)](https://travis-ci.org/tabman83/github-archive) 
+
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+
 > github-archive is a simple tool that backs up every repository and branch for a specified user.
 
 You will never be missing again your Dublin Bus ride! This web application shows the due time for your next ride a warns you when time is running out.
