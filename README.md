@@ -6,9 +6,6 @@
 
 > github-archive is a simple tool that backs up every repository and branch for a specified user.
 
-You will never be missing again your Dublin Bus ride! This web application shows the due time for your next ride a warns you when time is running out.
-The backend will keep an eye for you at the expected times at your preferred stop. Any update will be instantly pushed to your screen!
-
 ## Use
 
 Run ```github-archive``` followed by the auth token of the user and the account name (or organizational account name).
